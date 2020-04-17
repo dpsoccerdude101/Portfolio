@@ -1,0 +1,23 @@
+{
+  "name": "RocMaidan",
+  "version": "1.0.0",
+  "description": "RocMaidan Website Material\r Hi, this is a repository from which we host the non-profit website, ROC Maidan.",
+  "main": "nav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpsoccerdude101/RocMaidan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpsoccerdude101/RocMaidan/issues"
+  },
+  "homepage": "https://github.com/dpsoccerdude101/RocMaidan#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.6"
+  }
+}
